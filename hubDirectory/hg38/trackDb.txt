@@ -1,0 +1,6 @@
+track mysterylncRNA
+bigDataurl 
+shortLabel mystery lncRNA
+longLabel This is the set of lncRNAs containing the MER41B element at 2q12.1 expressed in GBM
+type gff
+visibility full
