@@ -1,5 +1,5 @@
 track mysterylncRNA
-bigDataurl 
+bigDataurl https://raw.githubusercontent.com/dmworstell/UCSChub/main/hubDirectory/hg38/MER41B_2q12.1_transcripts.gtf
 shortLabel mystery lncRNA
 longLabel This is the set of lncRNAs containing the MER41B element at 2q12.1 expressed in GBM
 type gff
